@@ -1,4 +1,4 @@
-## Hi there I am Ezra 👋
+## Hi there I am Ezra Magagane👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingezra02)](https://github.com/kingezra02/github-readme-stats)
 <!--
 **KingEzra02/kingezra02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
