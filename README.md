@@ -1,6 +1,6 @@
-# 👋🏾 Hi,Ezra Magagane aka @ezra_devs:
+# 👋🏾 Hi,I am Ezra Magagane aka @ezra_devs:
 🛠️ Software engineer<br>
-🔭 I’m currently working on my portfolio Is Going To Be Massive<br>👨🏾‍🎓 Computer science Graduate<br>Currently a Postgraduate in Computer science<br>🌱 Interested in SaaS and AI agents
+🔭 I’m currently working on my portfolio Is Going To Be Massive<br>👨🏾‍🎓 Computer science Graduate<br>🧗🏾‍♀️Currently a Postgraduate student in Computer science<br>🌱 Interested in SaaS and AI agents
 
 
 ## 🌐 Socials:
