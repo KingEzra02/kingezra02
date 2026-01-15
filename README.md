@@ -90,7 +90,10 @@ I’m particularly interested in **fintech and e-commerce platforms**, where cor
 
 ## 🎓 Education
 
-**Diploma in Computer Science**  
+**Advanced Diploma in Computer Science - NQF 7**  
+Tshwane University of Technology (TUT)
+
+**Diploma in Computer Science - NQF 6**  
 Tshwane University of Technology (TUT)
 
 ---
