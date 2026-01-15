@@ -1,26 +1,41 @@
-# 👋🏾 Hi,I am Ezra Magagane aka @ezra_devs:
-🛠️ Software engineer<br>
-🔭 I’m currently working on my portfolio Is Going To Be Massive<br>👨🏾‍🎓 Computer science Graduate<br>🧗🏾‍♀️Currently a Postgraduate student in Computer science<br>🌱 Interested in SaaS and AI agents
+# Prince Ezra - Aspiring Software Engineer in Fintech & E-Commerce
 
+![Profile Photo](https://via.placeholder.com/150) <!-- Replace with your photo URL -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezra-magagane/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezramagagane@gmail.com) 
+## About Me
+Hello! I'm Prince Ezra (@eziiWayToofit on X), a Computer Science diploma graduate from Pretoria, South Africa. I'm passionate about building secure, scalable applications for fintech and e-commerce. Specializing in Java, I'm honing my skills in backend development and system design to create impactful solutions like real-time payment systems and personalized shopping experiences.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KingEzra02&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KingEzra02&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingEzra02&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- **Current Focus**: Transitioning to a full-time software engineer role. Actively learning Spring Boot, system design (HLD/LLD), and cloud deployment.
+- **Career Goal**: Contribute to innovative fintech/e-commerce projects, emphasizing reliability and user-centric design.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KingEzra02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Skills
+- **Languages**: Java (expert), SQL, JavaScript (basic)
+- **Frameworks/Tools**: Spring Boot, PostgreSQL, MongoDB, Kafka, Redis, Docker, AWS
+- **System Design**: Proficient in HLD (microservices, scalability) and LLD (algorithms, diagrams)
+- **Other**: Git, REST APIs, CI/CD (GitHub Actions), Testing (JUnit)
+- **Domains**: Fintech (payments, compliance), E-Commerce (APIs, integrations)
 
----
-[![](https://visitcount.itsvg.in/api?id=KingEzra02&icon=0&color=0)](https://visitcount.itsvg.in)
+## What I'm Learning
+- Advanced Java features (Java 21+)
+- Cloud-native development with Kubernetes and AWS
+- AI/ML integration for fraud detection and recommendations (using Deeplearning4j)
+- Following a mentor-guided roadmap: Currently in Phase 3 (Databases & Integration)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ezramagagane@gmail.com) 
+## Projects
+- **[E-Commerce API](link-to-repo)**: Spring Boot RESTful service for product management with PostgreSQL integration. Features: CRUD, authentication. (Tech: Java, Spring, JWT)
+- **[Fintech Wallet Simulator](link-to-repo)**: Command-line app for transactions with error handling and basic fraud checks. (Tech: Java Core, Streams)
+- **[System Design Docs](link-to-repo)**: Collection of HLD/LLD for scenarios like payment gateways and scalable carts. (Tools: Draw.io)
+- More coming: Full-stack e-commerce platform with Stripe payments.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Experience & Education
+- **Education**: Diploma in Computer Science (Institution, Year)
+- **Experience**: Self-taught projects; open to internships/entry-level roles.
+- **Certifications**: In progress - Oracle Java SE, AWS Certified Developer
+
+## Contact
+- **Email**: your.email@example.com
+- **LinkedIn**: linkedin.com/in/prince-ezra
+- **X (Twitter)**: @eziiWayToofit
+- **Location**: Pretoria, Gauteng, South Africa
+
+Feel free to reach out for collaborations or opportunities! Last updated: January 2026.
