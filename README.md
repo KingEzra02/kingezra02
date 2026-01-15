@@ -1,41 +1,77 @@
 # Prince Ezra - Aspiring Software Engineer in Fintech & E-Commerce
 
-![Profile Photo](https://via.placeholder.com/150) <!-- Replace with your photo URL -->
+![Profile Photo](https://via.placeholder.com/150) <!-- Replace with your actual photo URL -->
 
-## About Me
-Hello! I'm Prince Ezra (@eziiWayToofit on X), a Computer Science diploma graduate from Pretoria, South Africa. I'm passionate about building secure, scalable applications for fintech and e-commerce. Specializing in Java, I'm honing my skills in backend development and system design to create impactful solutions like real-time payment systems and personalized shopping experiences.
+Hello! I'm Prince Ezra (@eziiWayToofit on X), a Computer Science diploma graduate from Pretoria, South Africa. I'm passionate about building secure, scalable, and reliable applications for **fintech** (payments, compliance, fraud detection) and **e-commerce** (inventory, personalization, high-traffic systems).
 
-- **Current Focus**: Transitioning to a full-time software engineer role. Actively learning Spring Boot, system design (HLD/LLD), and cloud deployment.
-- **Career Goal**: Contribute to innovative fintech/e-commerce projects, emphasizing reliability and user-centric design.
+- **Current Focus**: Transitioning to a full-time software engineer role. Deeply specializing in **Java & Spring Boot**, system design (HLD + LLD), and cloud-native development.
+- **Career Goal**: Deliver impactful backend solutions in fintech/e-commerce while continuously expanding into adjacent technologies.
+
+## Tech Stack
+
+### Backend & Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48"/>
+</div>
+
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>
+</div>
+
+### Frontend (Supporting)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/>
+</div>
+
+### Core Focus Areas
+- **Java & Spring Boot** backend development (REST APIs, microservices, security with JWT/OAuth)
+- System Design (HLD: microservices, scalability, event-driven architecture; LLD: class diagrams, algorithms)
+- Cloud-native deployment (Docker, AWS, CI/CD with GitHub Actions)
+- Domain knowledge: Fintech (transactions, compliance) & E-commerce (cart, payments, personalization)
 
 ## Skills
-- **Languages**: Java (expert), SQL, JavaScript (basic)
+- **Languages**: Java (core + modern features), SQL, JavaScript/TypeScript (basic)
 - **Frameworks/Tools**: Spring Boot, PostgreSQL, MongoDB, Kafka, Redis, Docker, AWS
-- **System Design**: Proficient in HLD (microservices, scalability) and LLD (algorithms, diagrams)
-- **Other**: Git, REST APIs, CI/CD (GitHub Actions), Testing (JUnit)
-- **Domains**: Fintech (payments, compliance), E-Commerce (APIs, integrations)
+- **Other**: REST/GraphQL APIs, Git, JUnit testing, system design patterns
+- **Domains**: Fintech integrations (e.g., Stripe), e-commerce scalability, secure transaction handling
 
-## What I'm Learning
-- Advanced Java features (Java 21+)
-- Cloud-native development with Kubernetes and AWS
-- AI/ML integration for fraud detection and recommendations (using Deeplearning4j)
-- Following a mentor-guided roadmap: Currently in Phase 3 (Databases & Integration)
+## What I'm Learning (2026 Roadmap)
+- Advanced Java 21+ (virtual threads, records, pattern matching)
+- Event-driven systems with Kafka
+- Cloud deployment & orchestration (AWS + Kubernetes basics)
+- AI/ML basics for fintech/e-commerce (fraud detection, recommendations)
+- Following a structured 6-12 month roadmap with hands-on projects
 
 ## Projects
-- **[E-Commerce API](link-to-repo)**: Spring Boot RESTful service for product management with PostgreSQL integration. Features: CRUD, authentication. (Tech: Java, Spring, JWT)
-- **[Fintech Wallet Simulator](link-to-repo)**: Command-line app for transactions with error handling and basic fraud checks. (Tech: Java Core, Streams)
-- **[System Design Docs](link-to-repo)**: Collection of HLD/LLD for scenarios like payment gateways and scalable carts. (Tools: Draw.io)
-- More coming: Full-stack e-commerce platform with Stripe payments.
+- **[E-Commerce API](link-to-repo)**: Spring Boot backend for product catalog, user auth, and order processing (PostgreSQL + JWT).
+- **[Fintech Wallet Simulator](link-to-repo)**: Java console app with transaction logic, error handling, and basic fraud rules.
+- **[System Design Portfolio](link-to-repo)**: HLD/LLD diagrams and implementations for payment gateways, scalable carts, etc.
+- More in progress: Full fintech expense tracker with Stripe integration.
 
-## Experience & Education
-- **Education**: Diploma in Computer Science (Institution, Year)
-- **Experience**: Self-taught projects; open to internships/entry-level roles.
-- **Certifications**: In progress - Oracle Java SE, AWS Certified Developer
+## Education & Experience
+- **Diploma in Computer Science** (Institution, Year)
+- Self-taught projects & open-source contributions
+- Open to internships, junior, or entry-level roles in fintech/e-commerce
 
 ## Contact
 - **Email**: your.email@example.com
 - **LinkedIn**: linkedin.com/in/prince-ezra
-- **X (Twitter)**: @eziiWayToofit
+- **X (Twitter)**: [@eziiWayToofit](https://x.com/eziiWayToofit)
 - **Location**: Pretoria, Gauteng, South Africa
 
-Feel free to reach out for collaborations or opportunities! Last updated: January 2026.
+Feel free to reach out for collaborations, feedback, or opportunities!  
+Last updated: January 2026
