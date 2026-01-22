@@ -8,7 +8,7 @@
 
 I’m a **Graduate Software Engineer** focused on **backend development with Java**, currently specializing in **Spring Boot** to build **secure, scalable, and maintainable systems**.
 
-I’m particularly interested in **fintech and e-commerce platforms**, where correctness, data integrity, and performance matter. I prioritize **strong engineering fundamentals, clean architecture, and clear system design** over chasing buzzwords.
+I’m particularly interested in **fintech and e-commerce platforms**, where correctness, data integrity, and performance matter. I prioritize **strong engineering fundamentals, clean architecture, and clear system design**.
 - **Portfolio:** https://ezra-devs-portfolio.vercel.app/
 ---
 
