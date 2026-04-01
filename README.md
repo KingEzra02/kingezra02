@@ -1,6 +1,6 @@
 # 👋 Ezra Magagane
-### Graduate Software Engineer | Backend (Java & Spring Boot)
-📍 Gauteng, South Africa  
+### Junior Software Engineer | Backend (Java & Spring Boot)
+📍 Gauteng, Pretoria, South Africa  
 
 ---
 
