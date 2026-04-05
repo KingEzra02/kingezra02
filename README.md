@@ -1,10 +1,10 @@
-# 👋 Ezra Magagane
+# Hello, I am Ezra Magagane
 ### Junior Software Engineer | Backend (Java & Spring Boot)
-📍 Gauteng, Pretoria, South Africa  
+Gauteng, Pretoria, South Africa  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Junior Software Engineer** focused on **backend development with Java**, currently specializing in **Spring Boot** to build **secure, scalable, and maintainable systems**.
 
@@ -12,7 +12,7 @@ I’m particularly interested in **fintech and e-commerce platforms**, where cor
 - **Portfolio:** https://ezra-devs-portfolio.vercel.app/
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Java & Spring Boot backend development  
 - RESTful API design  
@@ -22,7 +22,7 @@ I’m particularly interested in **fintech and e-commerce platforms**, where cor
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Backend & Databases
 <div>
@@ -56,7 +56,7 @@ I’m particularly interested in **fintech and e-commerce platforms**, where cor
 
 ---
 
-## 🧠 Engineering Interests
+## Engineering Interests
 
 - Backend systems for **fintech & e-commerce**
 - Transaction handling & data consistency
@@ -66,20 +66,20 @@ I’m particularly interested in **fintech and e-commerce platforms**, where cor
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### 🛒 E-Commerce Backend API
+### E-Commerce Backend API
 - Spring Boot REST API for users, products, and orders  
 - PostgreSQL database with relational modeling  
 - Layered architecture (controller, service, repository)  
 - Focus on validation, maintainability, and clean code  
 
-### 💳 Fintech Wallet Simulator
+### Fintech Wallet Simulator
 - Java-based wallet simulation  
 - Implemented transaction rules, balance checks, and error handling  
 - Designed to understand financial flows and edge cases  
 
-### 🧩 System Design Practice
+### System Design Practice
 - High-Level & Low-Level Designs for:
   - Payment processing systems  
   - Shopping cart services  
@@ -88,7 +88,7 @@ I’m particularly interested in **fintech and e-commerce platforms**, where cor
 
 ---
 
-## 🎓 Education
+## Education
 
 **Advanced Diploma in Computer Science - NQF 7**  
 Tshwane University of Technology (TUT)
@@ -98,7 +98,7 @@ Tshwane University of Technology (TUT)
 
 ---
 
-## 🎯 Career Direction
+## Career Direction
 
 I’m seeking **graduate or entry-level backend software engineering roles**, especially in:
 - Fintech & banking  
@@ -107,7 +107,7 @@ I’m seeking **graduate or entry-level backend software engineering roles**, es
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** ezramagaganeofficial@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/ezra-magagane  
