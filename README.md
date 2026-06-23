@@ -1,6 +1,6 @@
 # Hello, I am Ezra Magagane
 ### Junior Software Engineer | Backend (Java & Spring Boot)
-Gauteng, Pretoria, South Africa  
+Gauteng, Brakpan, South Africa  
 
 ---
 
