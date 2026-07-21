@@ -1,78 +1,124 @@
-# Hello, I'm Ezra Magagane 👋
-### Junior Software Engineer | Java & Spring Boot Backend
+<!-- ===================== ANIMATED HEADER ===================== -->
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ezra%20Magagane&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%E2%80%A2%20Java%20%26%20Spring%20Boot%20Backend&descAlignY=60&descSize=18)
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;2+full-stack+apps+shipped+to+production+on+AWS;FinTech+%26+e-commerce+focused;Always+learning%2C+always+shipping)](https://ezra-devs-portfolio.vercel.app/)
+
+<!-- ===================== BADGES ===================== -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ezra-devs-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezra-magagane)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ezra_devs)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezramagaganeofficial@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KingEzra02&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Sep%202026-4CAF50?style=for-the-badge)
 📍 Pretoria, Gauteng, South Africa
 
-> Backend engineer who's shipped **2 full-stack apps to production on AWS**, worked across **3 engineering teams**, and mentored **40+ students** in Java and algorithms.
-
-- 🌐 **Portfolio:** https://ezra-devs-portfolio.vercel.app/
-- 🟢 **Available** — open to local & remote roles
+</div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 I'm a **Junior Software Engineer** specialising in **Java & Spring Boot backend development**. I've built and deployed full-stack **FinTech and enterprise systems** on AWS, and I'm currently exploring **AI integration in backend services**.
 
-My target domain is **FinTech and e-commerce** — I want to build engineering that directly impacts people's financial lives. I care about **correctness, data integrity, and performance**, and I prioritise **strong fundamentals, clean architecture, and clear system design**.
+My target domain is **FinTech and e-commerce** — I want to build engineering that directly impacts people's financial lives. I care about **correctness, data integrity, and performance**, and prioritise **strong fundamentals, clean architecture, and clear system design**.
 
-Always learning, always shipping.
+```typescript
+const ezra = {
+  role: "Junior Software Engineer",
+  focus: ["Java", "Spring Boot", "REST APIs", "System Design"],
+  shipped: "2 full-stack apps in production on AWS",
+  teams: 3,
+  studentsMentored: "40+",
+  currentlyLearning: ["AI Integration", "Event-Driven Architecture (Kafka)"],
+  availableFrom: "September 2026",
+};
+```
 
 ---
 
 ## 📊 Impact in Numbers
 
-| | |
-|---|---|
-| 🚀 **2** apps in production | 🏢 **3** engineering teams |
-| 🎓 **40+** students mentored | 🛠️ **15+** technologies |
+<div align="center">
+
+| 🚀 Apps in Production | 🏢 Engineering Teams | 🎓 Students Mentored | 🛠️ Technologies |
+|:---:|:---:|:---:|:---:|
+| **2** | **3** | **40+** | **15+** |
+
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Languages
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48"/>
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48"/>
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48"/>
-</div>
+</p>
 
 ### Backend & Frameworks
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/>
   <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Web API" width="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48"/>
-</div>
+</p>
 
-*Also: Java EE · Microservices · Apache Kafka · RESTful API design · JWT / RBAC*
+![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6C63FF?style=flat-square)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![REST](https://img.shields.io/badge/RESTful%20APIs-25A162?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT%20%2F%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### Frontend
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="48"/>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48"/>
-</div>
+</p>
 
 ### Databases
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48"/>
-</div>
+</p>
 
-*Also: Microsoft SQL Server*
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### Cloud & DevOps
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"/>
   <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
-</div>
+</p>
 
-*Also: AWS S3 & RDS · Agile / Scrum · System Design · AI Integration*
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-6C63FF?style=flat-square)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingEzra02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=KingEzra02&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingEzra02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=KingEzra02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
 
 ---
 
@@ -88,7 +134,7 @@ A full-stack credit-building platform deployed on AWS.
 ### 📈 Fix Flow — Enterprise Ticketing System
 A full enterprise ticketing system built end to end.
 - **ASP.NET Web API** backend with **React** frontend
-- Relational database schema, RESTful APIs, **JWT authentication and RBAC**
+- Relational schema, RESTful APIs, **JWT authentication and RBAC**
 - Role-based workflows for managing and tracking support tickets
 
 ### 🗂️ TechTrackers
@@ -109,18 +155,7 @@ Developed React.js web features integrated with backend APIs. Collaborated in Ag
 12-month Work Integrated Learning placement. Built and deployed RESTful APIs using ASP.NET Web API and SQL Server, optimised database queries, and improved performance for live systems.
 
 **Academic Tutor — Computer Science** — *Tshwane University of Technology* · Mar 2025 – Oct 2025
-Mentored 40+ first-year students in Java programming, OOP design, and algorithmic problem solving; supported software engineering modules and exam preparation.
-
----
-
-## 🎯 Engineering Interests
-
-- Backend systems for **FinTech & e-commerce**
-- Transaction handling & data consistency
-- API scalability & performance
-- Secure authentication & authorization (JWT / RBAC)
-- AI integration in backend services *(current focus)*
-- Event-driven architectures with Kafka *(learning phase)*
+Mentored 40+ first-year students in Java programming, OOP design, and algorithmic problem solving.
 
 ---
 
@@ -136,23 +171,28 @@ Completed 2024 · OOP, databases, operating systems, information security, and w
 
 ## 🧭 Career Direction
 
-Seeking **graduate or entry-level backend software engineering roles**, especially in:
-- FinTech & banking
-- E-commerce platforms
-- Teams that value strong fundamentals, mentorship, and clean engineering
+Seeking **graduate or entry-level backend software engineering roles**, especially in **FinTech, banking, and e-commerce** — with teams that value strong fundamentals, mentorship, and clean engineering.
 
 ---
 
-## 📫 Contact
+<!-- ===================== CONTRIBUTION SNAKE (needs setup — see notes) ===================== -->
+<div align="center">
 
-- **Email:** ezramagaganeofficial@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ezra-magagane
-- **X:** https://x.com/ezra_devs
-- **GitHub:** https://github.com/KingEzra02
-- **Portfolio:** https://ezra-devs-portfolio.vercel.app/
+![Snake animation](https://raw.githubusercontent.com/KingEzra02/KingEzra02/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-_Last updated: July 2026_
+## 📫 Let's Connect
 
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ezra-devs-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezra-magagane)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ezra_devs)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezramagaganeofficial@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
