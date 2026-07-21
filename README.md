@@ -1,7 +1,7 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ezra%20Magagane&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%E2%80%A2%20Java%20%26%20Spring%20Boot%20Backend&descAlignY=60&descSize=18)
+<img src="https://raw.githubusercontent.com/KingEzra02/KingEzra02/main/assets/header.svg" alt="Ezra Magagane — Junior Software Engineer" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;2+full-stack+apps+shipped+to+production+on+AWS;FinTech+%26+e-commerce+focused;Always+learning%2C+always+shipping)](https://ezra-devs-portfolio.vercel.app/)
@@ -116,8 +116,6 @@ const ezra = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingEzra02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KingEzra02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
 </div>
 
 ---
@@ -193,6 +191,6 @@ Seeking **graduate or entry-level backend software engineering roles**, especial
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ezra_devs)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezramagaganeofficial@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+**Thanks for visiting — let's build something that matters. 🚀**
 
 </div>
