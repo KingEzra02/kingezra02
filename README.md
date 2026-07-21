@@ -5,7 +5,7 @@
 > Backend engineer who's shipped **2 full-stack apps to production on AWS**, worked across **3 engineering teams**, and mentored **40+ students** in Java and algorithms.
 
 - 🌐 **Portfolio:** https://ezra-devs-portfolio.vercel.app/
-- 🟢 **Available from September 2026** — open to local & remote roles
+- 🟢 **Available** — open to local & remote roles
 
 ---
 
